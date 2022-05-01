@@ -20,15 +20,13 @@ generally spread through social media and other online media. This is often done
 impose certain ideas and is often achieved with political agendas. Such news items may contain
 false and/or exaggerated claims, and may end up being viralized by algorithms, and users may
 end up in a filter bubble.  
-Build a Deep Learning model using LSTM cells to detect fake news.
-Link of Dataset: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-
-_q/view  
+Build a Deep Learning model using LSTM cells to detect fake news.  
+Link of Dataset: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view  
 
 **Project 4**   
 In project, we will be talking about predicting the returns on stocks. This is a very complex
 task and has uncertainties. You need to develop a model that will learn how to predict stock
 price using the LSTM neural network.  
-
 Link of Dataset: https://data-flair.training/blogs/download-tata-global-beverages-stocks-data/  
 
 **Project 5:**  
