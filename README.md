@@ -1,5 +1,5 @@
 # SoftComputingProjects_192
-5 Subject Projects
+Projects-  
 
 **Project 1:**  
 We often do you get stuck thinking about the name of a dog’s breed. There are many dog breeds
@@ -23,7 +23,7 @@ end up in a filter bubble.
 Build a Deep Learning model using LSTM cells to detect fake news.  
 Link of Dataset: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view  
 
-**Project 4**   
+**Project 4:**   
 In project, we will be talking about predicting the returns on stocks. This is a very complex
 task and has uncertainties. You need to develop a model that will learn how to predict stock
 price using the LSTM neural network.  
